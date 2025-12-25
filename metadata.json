@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nurul Iman - Islamic Dashboard",
+  "description": "A modern, calming Islamic web application featuring prayer schedules, daily duas, and a digital dzikir counter with personalized recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
